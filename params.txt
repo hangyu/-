@@ -1,0 +1,14 @@
+minSameCodeNum:3
+maxSameCodeNum:4
+acValueMin:6
+acValueMax:6
+ballLostSumMin:18
+ballLostSumMax:35
+redBallSumMin:80
+redBallSumMax:119
+ballLostMT10CountLimitMin:0
+ballLostMT10CountLimitMax:1
+tailRedSum:1,2,3,5,6,7
+continueNumCount:
+evenRedSum:
+eliminateCode:11,27
